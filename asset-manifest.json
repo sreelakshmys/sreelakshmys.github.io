@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/to-do-list-with-react/static/css/main.ea4dd71e.css",
-    "main.js": "/to-do-list-with-react/static/js/main.fb575a6c.js",
+    "main.css": "/to-do-list-with-react/static/css/main.2de7dc5d.css",
+    "main.js": "/to-do-list-with-react/static/js/main.35719ee9.js",
     "static/js/787.8349bb16.chunk.js": "/to-do-list-with-react/static/js/787.8349bb16.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/to-do-list-with-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/to-do-list-with-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/to-do-list-with-react/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/to-do-list-with-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/to-do-list-with-react/index.html",
-    "main.ea4dd71e.css.map": "/to-do-list-with-react/static/css/main.ea4dd71e.css.map",
-    "main.fb575a6c.js.map": "/to-do-list-with-react/static/js/main.fb575a6c.js.map",
+    "main.2de7dc5d.css.map": "/to-do-list-with-react/static/css/main.2de7dc5d.css.map",
+    "main.35719ee9.js.map": "/to-do-list-with-react/static/js/main.35719ee9.js.map",
     "787.8349bb16.chunk.js.map": "/to-do-list-with-react/static/js/787.8349bb16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea4dd71e.css",
-    "static/js/main.fb575a6c.js"
+    "static/css/main.2de7dc5d.css",
+    "static/js/main.35719ee9.js"
   ]
 }
