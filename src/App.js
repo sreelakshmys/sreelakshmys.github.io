@@ -33,7 +33,7 @@ export default function App() {
   // CHECKBOX HANDLER
   function markDone(listItemId) {
     let newTodoList = toDoList.map((toDoItem) => {
-      if (toDoItem.id == listItemId) {
+      if (toDoItem.id === listItemId) {
         toDoItem.completed = !toDoItem.completed;
       }
       return toDoItem;
