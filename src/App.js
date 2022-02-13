@@ -55,7 +55,6 @@ export default function App() {
   //   Get edit input value when editing
   function getEditInputValue(event) {
     setEditInputValue(event.target.value);
-    console.log(event.target.value);
   }
 
   // replacing the value in the list
@@ -64,7 +63,6 @@ export default function App() {
     if (editInputValue.trim()) {
       let editedToDo = { ...listItem };
       editedToDo.taskContent = editInputValue.trim();
-      console.log(editedToDo.taskContent);
       let newToDoList = [...toDoList];
       newToDoList[index] = editedToDo;
       setToDoList(newToDoList);
