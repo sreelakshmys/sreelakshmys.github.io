@@ -2,7 +2,7 @@
   "name": "to-do-list-with-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sreelakshmys.github.io",
+  "homepage": "https://sreelakshmys.github.io/to-do-list-with-react/",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
